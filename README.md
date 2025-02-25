@@ -37,9 +37,9 @@
 ---
 
 ### 🌐 Como me encontrar
-- 📧 **Email:** [lusocodeworks@example.com](mailto:lusocodeworks@example.com)
-- 💼 **LinkedIn:** [LusoCodeWorks](https://www.linkedin.com/)
+- 📧 **Email:** [info@lusocodeworks.pt](mailto:info@lusocodeworks.pt)
 - 💬 **Telegram:** [@lusocodeworks](https://t.me/lusocodeworks)
+- 🌐 **Website:** [LusoCodeWorks](https://lusocodeworks.pt)
 
 ---
 
